@@ -4,3 +4,7 @@
 # Astronomical Login Page (MINIMAL)
 
 ![Login preview](https://github.com/HassanRasool1/MINIMAL-LOGIN-PAGE/assets/109318661/bfcd12a5-821c-4ec9-a1fc-75676b378ae0)
+
+#Nvitron Login Page
+
+![Web capture_3-1-2024_185134_](https://github.com/HassanRasool1/MINIMAL-LOGIN-PAGE/assets/109318661/103dd3f8-4437-47a3-a693-c3c4c1aded5c)
