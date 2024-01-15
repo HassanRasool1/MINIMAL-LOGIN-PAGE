@@ -12,3 +12,7 @@
 # Sign up Page - Center Card
 
 ![Sign Up Page - Center Card](https://github.com/HassanRasool1/MINIMAL-LOGIN-PAGE/assets/109318661/cb33ce6c-8a8b-45b2-b9e9-48e365bef07c)
+
+# OFIN Sign up Page
+
+![OFIN - Demo](https://github.com/HassanRasool1/MINIMAL-LOGIN-PAGE/assets/109318661/bb80ca58-4df4-448e-8730-78986baf4e45)
