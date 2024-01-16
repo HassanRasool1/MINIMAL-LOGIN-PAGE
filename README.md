@@ -16,3 +16,7 @@
 # OFIN Sign up Page
 
 ![OFIN - Demo](https://github.com/HassanRasool1/MINIMAL-LOGIN-PAGE/assets/109318661/bb80ca58-4df4-448e-8730-78986baf4e45)
+
+# Shiloute Login Page
+
+![Demo](https://github.com/HassanRasool1/MINIMAL-LOGIN-PAGE/assets/109318661/c9ec8c7f-2070-4b2f-aa28-ce075dac7676)
